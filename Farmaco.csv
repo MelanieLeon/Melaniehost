@@ -1,4 +1,4 @@
-Paciente, Presion, Azucar, Colesterol, Antibioticos, Alergias, Administrar
+Paciente,Presion,Azucar,Colesterol,Antibioticos,Alergias,Administrar
 1,Alta,Alto,Alto,No,No,Si
 2,Alta,Alto,Alto,Si,No,Si
 3,Baja,Alto,Bajo,No,No,Si
